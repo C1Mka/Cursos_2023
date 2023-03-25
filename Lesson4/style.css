@@ -1,0 +1,320 @@
+
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.block_head {
+    width: 1440px;
+    height: 500px;
+    background: #ED4C5C;
+}
+.block_head_text {
+    width: 445px;
+    height: auto;
+    padding-top: 122px;
+    padding-left: 165px;
+}
+.head_text_span {
+    width: 445px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    height: 107px;
+}
+.head_text_paragraph {
+    width: 445px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #FFFFFF;
+    margin-top: 24px;
+    margin-bottom: 42px;
+}
+.head_vectors {
+    width: 150px;
+    height: 32px;
+}
+.vector_gp {
+    height: 28px;
+    margin-right: 28px;
+}
+.vector_apl {
+    margin-right: 25px;
+}
+.head_img1 {
+    position: absolute;
+    width: 383px;
+    height: 267px;
+    left: 691px;
+    top: 116px;
+    border-radius: 15px;
+}
+.head_img2 {
+    position: absolute;
+    width: 383px;
+    height: 267px;
+    left: 841px;
+    top: 116px;
+    border-radius: 15px; 
+}
+.head_img3 {
+    position: absolute;
+    width: 445px;
+    height: 311px;
+    left: 735px;
+    top: 94px;
+    border-radius: 15px;
+}
+.block_contact {
+    width: 1440px;
+    background: #FFFFFF;
+    height: 500px;
+    padding-top: 117px;
+    padding-left: 176px;
+    display: flex;
+    list-style: none;
+}
+.block_contact_text {
+    width: 445px;
+    height: 160px;
+}
+.text_contact {
+    width: 445px;
+    height: auto;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+.text_paragraph {
+    width: 434px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+    margin-top: 60px;
+}
+.block_contact_form {
+    width: 540px;
+    height: 305px;
+    margin-left: 125px;
+}
+.fname {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    padding-right: 0px;
+}
+.lname {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    padding-right: 0px;
+    margin-left: 25px;
+}
+.phone {
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-top: 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+}
+.select {
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    margin-top: 24px;
+}
+.submit {
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 27px;
+}
+.block_footer {
+    width: 1440px;
+    height: 435px;
+    padding-left: 166px;
+    display: flex;
+    list-style: none;
+}
+.block_footer_address {
+    width: 259px;
+    height: 264px;
+}
+.address {
+    width: 65px;    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+.adr_text {
+    width: 254px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+    margin-top: 33px;
+    margin-bottom: 141px;
+}
+.adr_copyright {
+    width: 155px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+.block_footer_services {
+    width: 254px;
+    margin-left: 30px;
+}
+.services {
+    width: 67px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+    margin-bottom: 28px;
+}
+.ser_list {
+    width: 254px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #000000;
+    list-style-type: none;
+    padding: 0px;
+}
+.block_footer_get {
+    width: 122px;
+    height: 128px;
+    margin-right: 166px;
+}
+.get_text {
+    width: 101px;
+    height: 22px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+    margin-bottom: 33px;
+}
+.get_email {
+    width: 122px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+    color: #101010;
+    margin-top: 33px;
+    display: inline-block;
+    margin-bottom: 11px;
+}
+.get_phone {
+    width: 96px;
+    height: 14px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #121212;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 21px;
+}
+.lnkd {
+    width: 15px;
+    margin-left: 16px;
+    margin-right: 14px;
+}
+.block_footer_support {
+    width: 216px;
+    height: 86px;
+}
+.support {
+    width: 96px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+.sup_img {
+    margin-top: 33px;
+    width: 216px;
+}
